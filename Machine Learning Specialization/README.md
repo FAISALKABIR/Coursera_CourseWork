@@ -93,7 +93,7 @@ Course 2 : [Advanced Learning Algorithms](https://github.com/FAISALKABIR/Courser
 
 [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/AR57SKWBPR64)
 
-Course 3 : Unsupervised Learning, Recommenders, Reinforcement Learning
+Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/FAISALKABIR/Coursera_CourseWork/tree/main/Machine%20Learning%20Specialization/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
 
     Week 1
         Practice quiz : Clustering
@@ -120,6 +120,7 @@ Course 3 : Unsupervised Learning, Recommenders, Reinforcement Learning
             Deep Q-Learning - Lunar Lander
 
 Certificate of Completion
+
 Specialization Certificate
 
 ### Course Review :
