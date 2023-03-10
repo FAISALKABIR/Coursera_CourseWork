@@ -1,1 +1,2 @@
-print('Not Completed Yet')
+print('Not Completed')
+print('Not Started')
