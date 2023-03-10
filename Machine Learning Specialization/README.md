@@ -47,9 +47,9 @@ Contains all the **lab work** for the [Machine Learning Specialization](https://
         Programming Assignment(Practice Lab)
             Logistic Regression
 
-[Certificate Of Completion](https://www.coursera.org/account/accomplishments/verify/5E8GJMBXJ3D4)
+### [Certificate Of Completion](https://www.coursera.org/account/accomplishments/verify/5E8GJMBXJ3D4)
 
-Course 2 : [Advanced Learning Algorithms](https://github.com/FAISALKABIR/Coursera_CourseWork/tree/main/Machine%20Learning%20Specialization/Advance%20Learning%20Algorithm)
+## Course 2 : [Advanced Learning Algorithms](https://github.com/FAISALKABIR/Coursera_CourseWork/tree/main/Machine%20Learning%20Specialization/Advance%20Learning%20Algorithm)
 
     Week 1
         Practice quiz: Neural networks intuition
@@ -91,9 +91,9 @@ Course 2 : [Advanced Learning Algorithms](https://github.com/FAISALKABIR/Courser
         Programming Assignment
             Decision Trees
 
-[Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/AR57SKWBPR64)
+### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/AR57SKWBPR64)
 
-Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/FAISALKABIR/Coursera_CourseWork/tree/main/Machine%20Learning%20Specialization/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
+## Course 3 : [Unsupervised Learning, Recommenders, Reinforcement Learning](https://github.com/FAISALKABIR/Coursera_CourseWork/tree/main/Machine%20Learning%20Specialization/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning)
 
     Week 1
         Practice quiz : Clustering
