@@ -119,9 +119,9 @@ Contains all the **lab work** for the [Machine Learning Specialization](https://
         Programming Assignment
             Deep Q-Learning - Lunar Lander
 
-Certificate of Completion
+### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/6KSCVSP88CFN)
 
-Specialization Certificate
+### [Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/VYQ9SYTGUWBB)
 
 ### Course Review :
 
