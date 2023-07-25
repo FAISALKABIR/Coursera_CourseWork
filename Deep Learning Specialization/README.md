@@ -74,7 +74,7 @@ Contains all the **lab work** for the [Deep Learning Specialization](https://www
         Week 3-Hyperparameter tuning
 
 
-### [Certificate of Completion]()
+### [Certificate of Completion](https://www.coursera.org/account/accomplishments/verify/QSAXUGUEUMMY)
 
 ## Course 3 : [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
 
